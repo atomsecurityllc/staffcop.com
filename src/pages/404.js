@@ -67,7 +67,7 @@ export default (() => {
 						sm-top="0px"
 					/>
 					<Image src="https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/robocop_PNG28%201.png?v=2020-11-04T16:31:28.931Z" md-width="100%" position="relative" z-index="2" />
-					{"        "}{"    "}
+					{"            "}
 				</StackItem>
 				{"    "}
 				<StackItem width="45%" display="flex" sm-width="100%" sm-order="1">
@@ -88,7 +88,7 @@ export default (() => {
 						sm-font="normal 700 70px/169px Inter, sans-serif"
 						sm-text-align="center"
 					>
-						404{"\n\n"}
+						404
 					</Text>
 					<Text
 						font="--headline3"
@@ -99,7 +99,7 @@ export default (() => {
 						sm-font="normal 300 16px/140% --fontFamily-googleInter"
 						sm-text-align="center"
 					>
-						That page can't be found{"\n\n"}
+						That page can't be found
 					</Text>
 					<Text
 						font="normal 300 18px/160% --fontFamily-googleInter"
@@ -110,10 +110,10 @@ export default (() => {
 						sm-font="normal 300 16px/140% --fontFamily-googleInter"
 						sm-text-align="center"
 					>
-						Let's get you back somewhere safe{"\n\n"}
+						Let's get you back somewhere safe
 					</Text>
 					<Link
-						href="#"
+						href="/"
 						position="relative"
 						z-index="2"
 						color="#ffffff"
@@ -136,7 +136,7 @@ export default (() => {
 					>
 						Take me home
 					</Link>
-					{"        "}{"    "}
+					{"            "}
 				</StackItem>
 			</Stack>
 		</Section>
