@@ -131,7 +131,7 @@ export default (() => {
 					</Text>
 					<Box display="flex" align-items="center" margin="0px 0px 0px 0px">
 						<Link
-							href="/documents/About_Atom_Security.pdf"
+							href="https://staffcop.com/documents/About_Atom_Security.pdf"
 							color="#1465FF"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
@@ -185,7 +185,7 @@ export default (() => {
 					</Text>
 					<Box display="flex" align-items="center" margin="0px 0px 0px 0px">
 						<Link
-							href="/documents/Security_audit_with_StaffCop.pdf"
+							href="https://staffcop.com/documents/Security_audit_with_StaffCop.pdf"
 							color="#1465FF"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
@@ -240,7 +240,7 @@ export default (() => {
 					</Text>
 					<Box display="flex" align-items="center" margin="0px 0px 0px 0px">
 						<Link
-							href="/documents/StaffCop_Datasheet.pdf"
+							href="https://staffcop.com/documents/StaffCop_Datasheet.pdf"
 							color="#1465FF"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
@@ -295,7 +295,7 @@ export default (() => {
 					</Text>
 					<Box display="flex" align-items="center" margin="0px 0px 0px 0px">
 						<Link
-							href="/documents/StaffCop_Enterprise.pdf"
+							href="https://staffcop.com/documents/StaffCop_Enterprise.pdf"
 							color="#1465FF"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
@@ -350,7 +350,7 @@ export default (() => {
 					</Text>
 					<Box display="flex" align-items="center" margin="0px 0px 0px 0px">
 						<Link
-							href="/documents/StaffCop_for_IS.pdf"
+							href="https://staffcop.com/documents/StaffCop_for_IS.pdf"
 							color="#1465FF"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
@@ -405,7 +405,7 @@ export default (() => {
 					</Text>
 					<Box display="flex" align-items="center" margin="0px 0px 0px 0px">
 						<Link
-							href="/documents/StaffCop_for_IT.pdf"
+							href="https://staffcop.com/documents/StaffCop_for_IT.pdf"
 							color="#1465FF"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
@@ -460,7 +460,7 @@ export default (() => {
 					</Text>
 					<Box display="flex" align-items="center" margin="0px 0px 0px 0px">
 						<Link
-							href="/documents/StaffCop_for_MAC.pdf"
+							href="https://staffcop.com/documents/StaffCop_for_MAC.pdf"
 							color="#1465FF"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
@@ -514,7 +514,7 @@ export default (() => {
 					</Text>
 					<Box display="flex" align-items="center" margin="0px 0px 0px 0px">
 						<Link
-							href="/documents/Technical_and_commercial_offer.pdf"
+							href="https://staffcop.com/documents/Technical_and_commercial_offer.pdf"
 							color="#1465FF"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
@@ -569,7 +569,7 @@ export default (() => {
 					</Text>
 					<Box display="flex" align-items="center" margin="0px 0px 0px 0px">
 						<Link
-							href="/documents/Use_cases.pdf"
+							href="https://staffcop.com/documents/Use_cases.pdf"
 							color="#1465FF"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
