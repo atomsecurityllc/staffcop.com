@@ -569,7 +569,7 @@ export default (() => {
 					</Text>
 					<Box display="flex" align-items="center" margin="0px 0px 0px 0px">
 						<Link
-							href="#"
+							href="documents/Use_cases.pdf"
 							color="#1465FF"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
