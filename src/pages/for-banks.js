@@ -407,9 +407,9 @@ export default (() => {
 				md-width="80%"
 				sm-font="normal 400 16px/140% --fontFamily-googleInter"
 			>
-				A soware package for
-monitoring informaon,
-user acons and system events on workcomputers
+				A software package for
+monitoring information,
+user actions and system events on workcomputers
 and terminal servers
 			</Text>
 			<Image
@@ -472,9 +472,9 @@ and terminal servers
 				sm-font="normal 400 16px/140% --fontFamily-googleInter"
 				sm-margin="8px 0px 23px 0px"
 			>
-				To ensure integrity of business flows and informaon
+				To ensure integrity of business flows and information
 				<br />
-				security for banks and financial organizaons
+				security for banks and financial organizations
 			</Text>
 			<Text
 				font="normal 700 34px/45px --fontFamily-googleInter"
@@ -540,7 +540,7 @@ and terminal servers
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Early detection of information security threats
+								Protect Your Data and IP with StaffCop's Insider Threat Monitoring, Detection and Prevention Solution{"\n\n"}
 							</Text>
 						</Link>
 					</Box>
@@ -589,9 +589,7 @@ and terminal servers
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								StaffCop is a me machine! At any me, you can go back and see what this or that employee was doing in the specified period
-								<br />
-								of me
+								StaffCop is a me machine! At any me, you can go back and see what this or that employee was doing in the specified period of time
 							</Text>
 						</Link>
 					</Box>
@@ -640,7 +638,7 @@ and terminal servers
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								To ensure integrity of business flows and informaon security for banks and financial organizaons.
+								To ensure integrity of business flows and information security for banks and financial organizations.
 							</Text>
 						</Link>
 					</Box>
@@ -690,7 +688,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								To ensure integrity of business flows and informaon security for banks and financial organizaons.
+								To ensure integrity of business flows and informaon security for banks and financial organizations.
 							</Text>
 						</Link>
 					</Box>
@@ -741,9 +739,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								StaffCop is a me machine! At any me, you can go back and see what this or that employee was doing in the specified period
-								<br />
-								of me
+								StaffCop is a powerful remote assistance software that enables businesses of all sizes to provide exceptional customer service and fast problem-solving solutions from any location.{"\n\n"}
 							</Text>
 						</Link>
 					</Box>
@@ -792,7 +788,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								To ensure integrity of business flows and informaon security for banks and financial organizaons.
+								To ensure integrity of business flows and informaon security for banks and financial organizations.
 							</Text>
 						</Link>
 					</Box>
@@ -1004,7 +1000,7 @@ analysis
 				md-width="80%"
 				sm-font="normal 400 16px/140% --fontFamily-googleInter"
 			>
-				Compliance is an increasingly complex task, requiring organizaons to manage mulple riskfactors across an evolving technology landscape, while also ensuring appropriate user behavior to meet the stringent requirements of today’s widely-accepted regulatory standards, such as GDPR, HIPAA, PCI DSS, ISO 27001, NIST and others.
+				Compliance is an increasingly complex task, requiring organizations to manage multiple riskfactors across an evolving technology landscape, while also ensuring appropriate user behavior to meet the stringent requirements of today’s widely-accepted regulatory standards, such as GDPR, HIPAA, PCI DSS, ISO 27001, NIST and others.
 			</Text>
 		</Section>
 		<Section padding="70px 0 20px 0" background="url(https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fonchikblue-min.png?v=2021-04-29T08:47:28.245Z) no-repeat,#000000" md-padding="30px 0 30px 0" md-background="#000,url(https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fonchikblue.png?v=2021-04-06T00:09:01.506Z) center center no-repeat">
@@ -1034,7 +1030,7 @@ analysis
 			>
 				StaffCop is built on modern data
 				<br />
-				intercepon and analysis technologies
+				interception and analysis technologies
 			</Text>
 			<Stack margin="0px 0px 0px 0px" width="100%">
 				<StackItem width="45%" display="flex" lg-width="100%" md-width="100%">
@@ -1137,7 +1133,7 @@ analysis
 							lg-text-align="center"
 							sm-text-align="left"
 						>
-							Built-in and custom user diconaries
+							Built-in and custom user dictionaries
 						</Text>
 					</Box>
 					<Box display="flex" align-items="center" margin="0px 0px 9px 0px">
@@ -1150,7 +1146,7 @@ analysis
 							lg-text-align="center"
 							sm-text-align="left"
 						>
-							Definion of encrypted archives
+							Definition of encrypted archives
 						</Text>
 					</Box>
 					<Box display="flex" align-items="center" margin="0px 0px 9px 0px">
@@ -1176,7 +1172,7 @@ analysis
 							lg-text-align="center"
 							sm-text-align="left"
 						>
-							Mullevel interacve reports
+							Multilevel interactive reports
 						</Text>
 					</Box>
 					<Box display="flex" align-items="center" margin="0px 0px 9px 0px">
@@ -1189,7 +1185,7 @@ analysis
 							lg-text-align="center"
 							sm-text-align="left"
 						>
-							Event Relaonship Graphs
+							Event Relationship Graphs
 						</Text>
 					</Box>
 					{"    "}
@@ -1347,7 +1343,7 @@ analysis
 				sm-font="normal 400 16px/140% --fontFamily-googleInter"
 				width="55%"
 			>
-				on workstaons and terminal servers
+				on workstations and terminal servers
 			</Text>
 			<Stack margin="0px 0px 0px 0px" justify-content="center">
 				{"    "}
@@ -1538,7 +1534,7 @@ analysis
 							color="rgba(255, 255, 255, 0.6)"
 							sm-font="normal 400 16px/140% Inter, sans-serif"
 						>
-							Registraon of all operaons with files and folders, including network files. Creaon of shadow copies of files sent outside the organizaon.
+							Registration of all operations with files and folders, including network files. Creation of shadow copies of files sent outside the organization.
 						</Text>
 					</Box>
 					{"    "}
@@ -1586,7 +1582,7 @@ analysis
 							color="rgba(255, 255, 255, 0.6)"
 							sm-font="normal 400 16px/140% Inter, sans-serif"
 						>
-							Monitoring of operaons with removable media. Blocking USB devices by class and Hardware ID. Restricng recording on USB and CD.
+							Monitoring of operations with removable media. Blocking USB devices by class and Hardware ID. Restricting recording on USB and CD.
 						</Text>
 					</Box>
 					{"    "}
@@ -1634,7 +1630,7 @@ analysis
 							color="rgba(255, 255, 255, 0.6)"
 							sm-font="normal 400 16px/140% Inter, sans-serif"
 						>
-							Registraon of print facts: user, me, computer, number of pages, etc. Creaon of shadow copies of printed files.
+							Registration of print facts: user, me, computer, number of pages, etc. Creation of shadow copies of printed files.
 						</Text>
 					</Box>
 					{"    "}
@@ -1682,7 +1678,7 @@ analysis
 							color="rgba(255, 255, 255, 0.6)"
 							sm-font="normal 400 16px/140% Inter, sans-serif"
 						>
-							Registraon of network connecons and control of encrypted traffic, website visits, and user searches.
+							Registration of network connections and control of encrypted traffic, website visits, and user searches.
 						</Text>
 					</Box>
 					{"    "}
@@ -1730,7 +1726,7 @@ analysis
 							color="rgba(255, 255, 255, 0.6)"
 							sm-font="normal 400 16px/140% Inter, sans-serif"
 						>
-							Registraon of facts and duraon of calls, intercepon of SMS-messages.
+							Registration of facts and duration of calls, interception of SMS-messages.
 						</Text>
 					</Box>
 					{"    "}
@@ -1769,7 +1765,7 @@ analysis
 							color="#ffffff"
 							sm-font="normal 600 20px/140% Inter, sans-serif"
 						>
-							Audio and video registraon
+							Audio and video registration
 						</Text>
 						<Text
 							font="normal 400 18px/160% --fontFamily-googleInter"
@@ -1844,7 +1840,7 @@ analysis
 						color="rgba(255, 255, 255, 0.6)"
 						lg-text-align="center"
 					>
-						The mullevel report designer allows you to get the required data set “on the go”. Searching for keywords and regular phrases will reduce the invesgaon me from the computer microphone to a minimum and will also allow you to hear what was happening at the right moment.
+						The multilevel report designer allows you to get the required data set “on the go”. Searching for keywords and regular phrases will reduce the investigation me from the computer microphone to a minimum and will also allow you to hear what was happening at the right moment.
 					</Text>
 					{"    "}
 				</StackItem>
@@ -1961,7 +1957,7 @@ analysis
 						color="rgba(255, 255, 255, 0.6)"
 						lg-text-align="center"
 					>
-						The unique combinaon of PostgreSQL and ClickHouse provides tremendous data processing speed. You don’t need to set the report generaon overnight, only to find out that there was nothing you need – invesgate here and now!
+						The unique combination of PostgreSQL and ClickHouse provides tremendous data processing speed. You don’t need to set the report generation overnight, only to find out that there was nothing you need – invesgate here and now!
 					</Text>
 					{"    "}
 				</StackItem>
@@ -1999,7 +1995,7 @@ analysis
 						color="rgba(255, 255, 255, 0.6)"
 						lg-text-align="center"
 					>
-						A clear view of the communicaons between employees and their nature. A scheme for migrang files within an organizaon and transferring them outside.
+						A clear view of the communications between employees and their nature. A scheme for migrang files within an organizaon and transferring them outside.
 					</Text>
 					<Text
 						font="normal 600 36px/45px --fontFamily-googleInter"
@@ -2125,7 +2121,7 @@ analysis
 						color="rgba(255, 255, 255, 0.6)"
 						lg-text-align="center"
 					>
-						Convenient for determining the intensity of acvity and events concerning employees.
+						Convenient for determining the intensity of activity and events concerning employees.
 					</Text>
 					<Text
 						font="normal 600 36px/45px --fontFamily-googleInter"
@@ -2194,7 +2190,7 @@ analysis
 				md-width="80%"
 				sm-font="normal 400 16px/140% --fontFamily-googleInter"
 			>
-				Monitoring processes and applicaons, system events and connecng to a remote desktop make StaffCopEnterprise an indispensable assistant for an IT specialist.
+				Monitoring processes and applicaons, system events and connecng to a remote desktop make StaffCop Enterprise an indispensable assistant for an IT specialist.
 			</Text>
 		</Section>
 		<Section padding="0px 0 0px 0" background="#000000">
@@ -2261,7 +2257,7 @@ analysis
 							lg-font="normal 700 40px/46px --fontFamily-googleInter"
 							sm-margin="0px 0px 24px 0px"
 						>
-							All data is consolidated in one place, no more wasted me with logs and proxies
+							All data is consolidated in one place, no more wasted time with logs and proxies
 						</Text>
 						<Box
 							margin="0px 0px 67px 0px"
@@ -2390,7 +2386,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Users are registered by the system each me they log in and log out. The log includes users who log in locally and remotely, including SSH connecons.
+								Users are registered by the system each me they log in and log out. The log includes users who log in locally and remotely, including SSH connections.
 							</Text>
 						</Box>
 						{"    "}
@@ -2474,7 +2470,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								To ensure integrity of business flows and informaon security for banks and financial organizaons.
+								To ensure integrity of business flows and informaon security for banks and financial organizations.
 							</Text>
 						</Box>
 						{"    "}
@@ -2507,7 +2503,7 @@ analysis
 								color="#ffffff"
 								sm-font="normal 600 20px/140% Inter, sans-serif"
 							>
-								History and mes of website visits
+								History and times of website visits
 							</Text>
 							<Text
 								font="normal 400 18px/160% --fontFamily-googleInter"
@@ -2516,7 +2512,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								The system registers website visits in tabs of Chrome, Firefox and browsers based on them. In addion, the system calculates the me spent on websites.
+								The system registers website visits in tabs of Chrome, Firefox and browsers based on them. In addition, the system calculates the time spent on websites.
 							</Text>
 						</Box>
 						{"    "}
@@ -2549,7 +2545,7 @@ analysis
 								color="#ffffff"
 								sm-font="normal 600 20px/140% Inter, sans-serif"
 							>
-								File operaons
+								File operations
 							</Text>
 							<Text
 								font="normal 400 18px/160% --fontFamily-googleInter"
@@ -2558,7 +2554,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								StaffCop registers file operaons: read, write, delete, create and rename. Creaon of shadow copies.
+								StaffCop registers file operations: read, write, delete, create and rename. Creaon of shadow copies.
 							</Text>
 						</Box>
 						{"    "}
@@ -2591,7 +2587,7 @@ analysis
 								color="#ffffff"
 								sm-font="normal 600 20px/140% Inter, sans-serif"
 							>
-								Applicaon Acvity Time
+								Application Activity Time
 							</Text>
 							<Text
 								font="normal 400 18px/160% --fontFamily-googleInter"
@@ -2600,7 +2596,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								The system records the user’s upme in applicaons. From the collected data, a report on the producvity of employees is generated according to the specified criteria. The report data is compared with screenshots by me stamps...
+								The system records the user’s upme in applications. From the collected data, a report on the productivity of employees is generated according to the specified criteria. The report data is compared with screenshots by me stamps...
 							</Text>
 						</Box>
 						{"    "}
@@ -2832,7 +2828,7 @@ analysis
 				>
 					9 important reasons
 					<br />
-					to choose staffcop
+					to choose StaffCop
 				</Text>
 				<Text
 					font="normal 400 18px/160% --fontFamily-googleInter"
@@ -2844,9 +2840,9 @@ analysis
 					md-width="80%"
 					sm-font="normal 400 16px/140% --fontFamily-googleInter"
 				>
-					To ensure integrity of business flows and informaon
+					To ensure integrity of business flows and informtiaon
 					<br />
-					security for banks and financial organizaons
+					security for banks and financial organizations
 				</Text>
 				<Stack margin="0px 0px 0px 0px" justify-content="center">
 					{"    "}
@@ -2878,7 +2874,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Users are registered by the system each me they log in and log out. The log includes users who log in locally and remotely, including SSH connecons.
+								Users are registered by the system each me they log in and log out. The log includes users who log in locally and remotely, including SSH connections.
 							</Text>
 						</Box>
 						{"    "}
@@ -2977,7 +2973,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Detailed documentaon, prompt and competent technical support. The project team provides full support from the inial tesng phase.
+								Detailed documentaon, prompt and competent technical support. The project team provides full support from the initial testing phase.
 							</Text>
 						</Box>
 						{"    "}
@@ -3043,7 +3039,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Possibility of customizaon to specific requirements, integraon with other systems and customer’s business processes.
+								Possibility of customizaon to specific requirements, integration with other systems and customer’s business processes.
 							</Text>
 						</Box>
 						{"    "}
@@ -3082,7 +3078,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Unique monitoring funcons of workstaons and terminals of servers running MacOS, GNU/Linux systems – expands the control capabilies.
+								Unique monitoring functions of workstations and terminals of servers running MacOS, GNU/Linux systems – expands the control capabilies.
 							</Text>
 						</Box>
 						{"    "}
@@ -3160,7 +3156,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Minimal hardware requirements, reasonable cost, and perpetual licenses, resulng in low acquision, implementaon and operang costs.
+								Minimal hardware requirements, reasonable cost, and perpetual licenses, resulting in low acquision, implementation and operating costs.
 							</Text>
 						</Box>
 						{"    "}
@@ -3226,7 +3222,7 @@ analysis
 								<br />
 								and log out. The log includes users who log in locally and
 								<br />
-								remotely, including SSH connecons.
+								remotely, including SSH connections.
 							</Text>
 						</Box>
 						{"    "}
@@ -3268,7 +3264,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Skype, ICQ, Jabber (XMPP), MSN and others.Using the keylogger – applicaon/site – screenshot link, you can track the correspondence of any instant messengers, chats and other communicaons over the Internet.
+								Skype, ICQ, Jabber (XMPP), MSN and others. Using the keylogger – application/site – screenshot link, you can track the correspondence of any instant messengers, chats and other communications over the Internet.
 							</Text>
 						</Box>
 						{"    "}
@@ -3751,7 +3747,6 @@ analysis
 			<script place={"endOfBody"} rawKey={"6036af4a8bcc719b09a29177"}>
 				{"function ready() {\n    require(['jquery'], function($) {\n$('#button-11').attr({'onsubmit':'ga(\"send\", \"event\", \"preorder\")'})\n    });\n} \ndocument.addEventListener(\"DOMContentLoaded\", ready);"}
 			</script>
-			<link href={"http://kalyan-tay.ukit.me/js/lib/requirejs.min.js"} place={"endOfBody"} rawKey={"6036c4ad41cac81d90782665"} />
 			<style place={"endOfHead"} rawKey={"606b01d8eaad287b684319f3"}>
 				{".arrow-menu {\ncolor: #fff !important;\n}\n.menu-trigger {\ncolor: #fff !important;\n}"}
 			</style>

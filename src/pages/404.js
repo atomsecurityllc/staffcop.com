@@ -1,6 +1,6 @@
 import React from "react";
 import theme from "theme";
-import { Theme, Link, Image, Text, Section } from "@quarkly/widgets";
+import { Theme, Link, Image, Text, Box, Section } from "@quarkly/widgets";
 import { Helmet } from "react-helmet";
 import { GlobalQuarklyPageStyles } from "global-page-styles";
 import { RawHtml, Override, StackItem, Stack } from "@quarkly/components";
@@ -32,32 +32,38 @@ export default (() => {
 		</Components.Header>
 		<Section
 			padding="180px 0 100px 0"
-			background="linear-gradient(180deg,rgba(2, 2, 2, 0.22) 0%,rgba(02, 02, 02, 0.35) 46.88%,#020202 100%),#020202 url(https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/ebuchayasetka.svg?v=2020-10-21T00:06:31.897Z) center -693px/cover repeat"
-			hd-background="#020202 url(https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/ebuchayasetka.svg?v=2020-10-21T00:06:31.897Z) center -693px/2060px repeat"
 			width="100%"
 			overflow-y="hidden"
 			overflow-x="hidden"
-			sm-padding="70px 0 70px 0"
+			sm-padding="100px 0 70px 0"
+			min-height="100vh"
+			background="#020202 url(https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/ebuchayasetka.svg?v=2020-10-21T00:06:31.897Z) center -693px/cover repeat"
 		>
-			<Override slot="SectionContent" max-width="1200px" align-items="center" position="relative" />
+			<Override
+				slot="SectionContent"
+				max-width="1200px"
+				align-items="center"
+				position="relative"
+				justify-content="center"
+			/>
 			<Stack width="100%">
-				{"    "}
-				<StackItem
-					width="40%"
-					display="flex"
-					margin="0px 10% 0px 5%"
-					sm-width="100%"
-					sm-order="2"
-				>
-					<Override slot="StackItemContent" position="relative" sm-align-items="center" sm-justify-content="center" />
+				{"    "}{"    "}
+				<StackItem width="100%" display="flex" sm-width="100%" sm-order="1">
+					<Override
+						slot="StackItemContent"
+						flex-direction="column"
+						align-items="center"
+						justify-content="center"
+						sm-align-items="center"
+					/>
 					<Image
-						width="200%"
+						width="80%"
 						src="https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/migalkiauf.svg?v=2020-10-20T11:13:38.372Z"
 						position="absolute"
-						z-index="1"
+						z-index="0"
 						left="-250px"
-						top="-70px"
-						right="auto"
+						top="-100px"
+						right="0px"
 						bottom="auto"
 						transform="rotateZ(45deg)"
 						nout-left="-150px"
@@ -65,39 +71,63 @@ export default (() => {
 						md-left="-100px"
 						md-top="-20px"
 						sm-top="0px"
+						filter="opacity(70%)"
+						sm-left="-80px"
 					/>
-					<Image src="https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/robocop_PNG28%201.png?v=2020-11-04T16:31:28.931Z" md-width="100%" position="relative" z-index="2" />
-					{"            "}
-				</StackItem>
-				{"    "}
-				<StackItem width="45%" display="flex" sm-width="100%" sm-order="1">
-					<Override
-						slot="StackItemContent"
-						flex-direction="column"
-						align-items="flex-start"
-						justify-content="center"
-						sm-align-items="center"
-					/>
-					<Text
-						font="--headline1"
-						color="#ffffff"
-						letter-spacing="-0.01em"
-						margin="8px 0px 16px 0px"
-						md-width="80%"
-						md-font="normal 700 110px/169px Inter, sans-serif"
-						sm-font="normal 700 70px/169px Inter, sans-serif"
-						sm-text-align="center"
-					>
-						404
-					</Text>
+					<Box display="flex" align-items="center" position="relative" sm-justify-content="center">
+						<Text
+							font="--headline1"
+							color="#ffffff"
+							letter-spacing="-0.01em"
+							margin="8px 0px 16px 0px"
+							md-width="80%"
+							md-font="normal 700 60px/1.5 Inter, sans-serif"
+							sm-font="normal 700 70px/79px Inter, sans-serif"
+							sm-text-align="center"
+							position="relative"
+							z-index="2"
+							text-align="center"
+							sm-margin="0px 0px 0px 0px"
+						>
+							4
+						</Text>
+						<Image
+							width="112px"
+							height="112px"
+							src="https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/Group404.svg?v=2021-05-20T15:56:27.464Z"
+							margin="0px 2px 0px 2px"
+							md-width="112px"
+							md-height="112px"
+							md-margin="0px 0px 0px 0px"
+						/>
+						<Text
+							font="--headline1"
+							color="#ffffff"
+							letter-spacing="-0.01em"
+							margin="8px 0px 16px 0px"
+							md-width="80%"
+							md-font="normal 700 60px/1.5 Inter, sans-serif"
+							sm-font="normal 700 70px/79px Inter, sans-serif"
+							sm-text-align="center"
+							position="relative"
+							z-index="2"
+							text-align="center"
+							sm-margin="0px 0px 0px 0px"
+						>
+							4
+						</Text>
+					</Box>
 					<Text
 						font="--headline3"
 						color="#ffffff"
 						letter-spacing="-0.01em"
 						margin="8px 0px 0px 0px"
 						md-width="80%"
-						sm-font="normal 300 16px/140% --fontFamily-googleInter"
+						sm-font="normal 700 20px/140% --fontFamily-googleInter"
 						sm-text-align="center"
+						position="relative"
+						z-index="2"
+						text-align="center"
 					>
 						That page can't be found
 					</Text>
@@ -109,6 +139,9 @@ export default (() => {
 						md-width="80%"
 						sm-font="normal 300 16px/140% --fontFamily-googleInter"
 						sm-text-align="center"
+						position="relative"
+						z-index="2"
+						text-align="center"
 					>
 						Let's get you back somewhere safe
 					</Text>
@@ -172,7 +205,6 @@ export default (() => {
 			<script place={"endOfBody"} rawKey={"6036af4a8bcc719b09a29177"}>
 				{"function ready() {\n    require(['jquery'], function($) {\n$('#button-11').attr({'onsubmit':'ga(\"send\", \"event\", \"preorder\")'})\n    });\n} \ndocument.addEventListener(\"DOMContentLoaded\", ready);"}
 			</script>
-			<link href={"http://kalyan-tay.ukit.me/js/lib/requirejs.min.js"} place={"endOfBody"} rawKey={"6036c4ad41cac81d90782665"} />
 		</RawHtml>
 	</Theme>;
 });

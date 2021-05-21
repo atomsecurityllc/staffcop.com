@@ -1146,7 +1146,6 @@ With a unified data loss prevention, user activity monitoring, reporting and for
 			<script place={"endOfBody"} rawKey={"6036af4a8bcc719b09a29177"}>
 				{"function ready() {\n    require(['jquery'], function($) {\n$('#button-11').attr({'onsubmit':'ga(\"send\", \"event\", \"preorder\")'})\n    });\n} \ndocument.addEventListener(\"DOMContentLoaded\", ready);"}
 			</script>
-			<link href={"http://kalyan-tay.ukit.me/js/lib/requirejs.min.js"} place={"endOfBody"} rawKey={"6036c4ad41cac81d90782665"} />
 		</RawHtml>
 	</Theme>;
 });
