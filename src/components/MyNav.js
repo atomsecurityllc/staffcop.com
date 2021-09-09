@@ -37,7 +37,7 @@ const MyNav = props => {
 		            
 		<div className="munecontainer">
 			            
-			<NavItems className="menuopen" display={isOpen ? 'block' : 'none'}>
+			<NavItems className="menuopen" data-display={isOpen ? 'block' : 'none'}>
 				                
 				<ul ref={clickItemRef}>
 					                    
