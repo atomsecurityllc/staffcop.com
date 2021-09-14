@@ -148,7 +148,7 @@ const overrides = {
 			"hover-color": "--primary",
 			"transition": "all 1s ease 0s",
 			"opacity": "0.5",
-			"href": "/pricing/",
+			"href": "/purchase/",
 			"hover-opacity": "1",
 			"children": "Purchase"
 		}

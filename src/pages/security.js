@@ -1843,6 +1843,8 @@ Besides, StaffCop enables you to conform to compliance regulations, including GD
 					.
 				</Span>
 			</Override>
+			<Override slot="link1" />
+			<Override slot="link2" />
 		</Components.BlockNeed>
 		<Section
 			background="#ffffff"

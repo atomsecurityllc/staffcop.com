@@ -989,6 +989,15 @@ export default (() => {
 				<Override slot="text">
 					Russia, Novosibirsk, Koptug Road 4, Sobolev Institute of Mathematics
 				</Override>
+				<Override slot="link1" href="/purchase">
+					Purchase
+				</Override>
+				<Override slot="link7">
+					Support
+				</Override>
+				<Override slot="link4">
+					Distributors
+				</Override>
 			</Components.Footer>
 		</Section>
 		<Section
