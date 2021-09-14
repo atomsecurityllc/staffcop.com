@@ -123,14 +123,10 @@ export default (() => {
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
-					<Text
-						font="normal 400 18px/28px --fontFamily-googleInter"
-						letter-spacing="-1%"
-						color="#1465FF"
-						margin="0px 0px 0px 0px"
-						sm-text-align="center"
-					>
-						i2Biz
+					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
+						<Link href="https://www.i2biz.com.au/">
+							i2Biz
+						</Link>
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -156,7 +152,6 @@ export default (() => {
 							<Link href="mailto:sales@cogitosoft.com" text-decoration-line="initial">
 								enquiries@i2biz.com.au
 							</Link>
-							{"\n\n"}
 						</Link>
 					</Text>
 				</StackItem>
@@ -187,14 +182,10 @@ export default (() => {
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
-					<Text
-						font="normal 400 18px/28px --fontFamily-googleInter"
-						letter-spacing="-1%"
-						color="#1465FF"
-						margin="0px 0px 0px 0px"
-						sm-text-align="center"
-					>
-						COGITO SOFTWARE CO LTD{"\n\n"}
+					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
+						<Link href="http://english.cogitosoft.com/">
+							COGITO SOFTWARE CO LTD
+						</Link>
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -220,7 +211,6 @@ export default (() => {
 							<Link href="mailto:sales@cogitosoft.com" text-decoration-line="initial">
 								sales@cogitosoft.com
 							</Link>
-							{"\n\n"}
 						</Link>
 					</Text>
 				</StackItem>
@@ -237,14 +227,10 @@ export default (() => {
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
-					<Text
-						font="normal 400 18px/28px --fontFamily-googleInter"
-						letter-spacing="-1%"
-						color="#1465FF"
-						margin="0px 0px 0px 0px"
-						sm-text-align="center"
-					>
-						Enterprise Hardware Solutions Ltd.
+					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
+						<Link href="https://www.ehws.biz/">
+							Enterprise Hardware Solutions Ltd.
+						</Link>
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -284,14 +270,10 @@ export default (() => {
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
-					<Text
-						font="normal 400 18px/28px --fontFamily-googleInter"
-						letter-spacing="-1%"
-						color="#1465FF"
-						margin="0px 0px 0px 0px"
-						sm-text-align="center"
-					>
-						Him Technology Distribution
+					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
+						<Link href="https://himtechdist.com/">
+							Him Technology Distribution
+						</Link>
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -330,7 +312,9 @@ export default (() => {
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
 					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
-						Parasol Software
+						<Link href="https://parasolsoftware.com/">
+							Parasol Software
+						</Link>
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -372,7 +356,9 @@ export default (() => {
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
 					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
-						Norm Yazilim
+						<Link href="http://normyazilim.com/">
+							Norm Yazilim
+						</Link>
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -412,7 +398,9 @@ export default (() => {
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
 					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
-						COGITO SOFTWARE CO., LTD{"\n\n"}
+						<Link href="http://cogitosoft.com/">
+							COGITO SOFTWARE CO., LTD
+						</Link>
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -450,7 +438,9 @@ export default (() => {
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
 					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
-						COGITO SOFTWARE CO.,LIMITED
+						<Link href="http://cogitosoft.com/">
+							COGITO SOFTWARE CO.,LIMITED
+						</Link>
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -500,7 +490,9 @@ export default (() => {
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
 					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
-						COGITO SOFTWARE CO.,LTD (Taiwan Office)
+						<Link href="http://cogitosoft.com/">
+							COGITO SOFTWARE CO.,LTD (Taiwan Office)
+						</Link>
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -540,7 +532,9 @@ export default (() => {
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
 					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
-						Tri Thuc
+						<Link href="https://staffcop.com.vn/">
+							Tri Thuc
+						</Link>
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -687,7 +681,6 @@ export default (() => {
 							<Link href="mailto:morales.v@vokot.ec">
 								morales.v@vokot.ec
 							</Link>
-							{"\n\n"}
 						</Link>
 					</Text>
 				</StackItem>
@@ -721,7 +714,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						+52 (55) 5766-1880{"\n\n"}
+						+52 (55) 5766-1880
 					</Text>
 					<Text
 						font="normal 400 18px/28px --fontFamily-googleInter"
@@ -730,7 +723,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						ventas@auditoria.com.mx{"\n\n"}
+						ventas@auditoria.com.mx
 					</Text>
 				</StackItem>
 				{"  "}
@@ -832,7 +825,7 @@ export default (() => {
 					<Override slot="StackItemContent" md-align-items="baseline" md-justify-content="center" align-items="center" />
 					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
 						<Link href="https://www.storerepublic.com/">
-							Lambda Technologies Sdn Bhd{"\n"}
+							Lambda Technologies Sdn Bhd
 						</Link>
 					</Text>
 				</StackItem>
