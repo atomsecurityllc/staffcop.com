@@ -78,6 +78,9 @@ export default (() => {
 					.
 				</Span>
 			</Override>
+			<Override slot="link">
+				Try for free
+			</Override>
 		</Components.BlockNeed>
 		<Components.Footer />
 		<Link

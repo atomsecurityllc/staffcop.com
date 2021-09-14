@@ -1217,13 +1217,13 @@ control over his keyboard and mouse, and resolves the issues.
 			<Override slot="text7">
 				Categorize applications and web-sites into productive and unproductive. Set up different configurations for particular users, groups and departments. Compare results.
 			</Override>
-			<Override slot="link" href="/security">
+			<Override slot="link">
 				Try for free
 			</Override>
 			<Override slot="link2" href="/monitoring">
 				Try for free
 			</Override>
-			<Override slot="link1" href="/administration">
+			<Override slot="link1">
 				Try for free
 			</Override>
 		</Components.BlockNeed>

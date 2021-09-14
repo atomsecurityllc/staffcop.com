@@ -92,8 +92,20 @@ export default (() => {
 						Our vision
 					</Text>
 					<Text margin="30px 0px 9px 0px" font="400 18px/160% --fontFamily-googleInter" color="#555" sm-font="400 16px/22px --fontFamily-googleInter">
-						Here you can find guides on installation, upgrades, faq and other relevant information.{" "}
-						<Link href="docs.staffcop.com" text-decoration-line="initial" color="#1465FF" hover-text-decoration-line="underline">
+						Here you can find guides on installation, upgrades, faq and other relevant information:{" "}
+						<Link
+							href="https://docs.staffcop.com"
+							text-decoration-line="initial"
+							color="#1465FF"
+							hover-text-decoration-line="underline"
+							overflow-wrap="normal"
+							word-break="normal"
+							white-space="normal"
+							text-indent="0"
+							text-overflow="clip"
+							hyphens="manual"
+							target="_blank"
+						>
 							docs.staffcop.com
 						</Link>
 					</Text>
@@ -140,7 +152,13 @@ export default (() => {
 						/>
 						<Text margin="9px 0px 9px 18px" color="#555" font="400 18px/160% --fontFamily-googleInter" sm-font="400 16px/22px --fontFamily-googleInter">
 							in the ticket system{" "}
-							<Link href="help.staffcop.com" text-decoration-line="initial" color="--primary" hover-text-decoration-line="underline">
+							<Link
+								href="https://help.staffcop.com"
+								text-decoration-line="initial"
+								color="--primary"
+								hover-text-decoration-line="underline"
+								target="_blank"
+							>
 								help.staffcop.com
 							</Link>
 						</Text>
@@ -208,7 +226,7 @@ export default (() => {
 					</Text>
 					<Box>
 						<Link
-							href="#"
+							href="https://help.staffcop.com/open.php"
 							font="600 18px/22px --fontFamily-googleInter"
 							color="#ffffff"
 							text-decoration-line="initial"
@@ -226,11 +244,12 @@ export default (() => {
 							margin="0px 24px 0px 0px"
 							background="--color-primary"
 							box-shadow="inset 0px 5px 17px rgba(255, 255, 255, 0.23)"
+							target="_blank"
 						>
 							Open new ticket{"\n\n"}
 						</Link>
 						<Link
-							href="#"
+							href="/request-demo"
 							font="600 18px/22px --fontFamily-googleInter"
 							color="--primary"
 							text-decoration-line="initial"

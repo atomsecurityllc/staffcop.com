@@ -959,6 +959,7 @@ analysis
 					margin="-90px 0px 0px 0px"
 					max-height="74px"
 					lg-display="none"
+					disabled={false}
 				>
 					Show more advantages
 				</Button>
@@ -1301,7 +1302,7 @@ analysis
 						sm-font="normal 400 16px/140% --fontFamily-googleInter"
 						md-text-align="center"
 					>
-						StaffCop can nofy of violaon of security policies in the
+						StaffCop can notify of violation of security policies in the
 						<br />
 						admin panel and by e-mail. Analycal tables and graphs
 						<br />
@@ -1822,7 +1823,7 @@ analysis
 						lg-text-align="center"
 						sm-font="normal 600 32px/35px --fontFamily-googleInter"
 					>
-						StaffCop is a me machine!
+						StaffCop is a time machine!
 					</Text>
 					<Text
 						font="--lead"
@@ -1995,7 +1996,7 @@ analysis
 						color="rgba(255, 255, 255, 0.6)"
 						lg-text-align="center"
 					>
-						A clear view of the communications between employees and their nature. A scheme for migrang files within an organizaon and transferring them outside.
+						A clear view of the communications between employees and their nature. A scheme for migrating files within an organization and transferring them outside.
 					</Text>
 					<Text
 						font="normal 600 36px/45px --fontFamily-googleInter"
@@ -2004,7 +2005,7 @@ analysis
 						color="#ffffff"
 						lg-text-align="center"
 					>
-						Anomaly detecon
+						Anomaly detection
 					</Text>
 					<Text
 						font="--lead"
@@ -2148,7 +2149,7 @@ analysis
 						color="#ffffff"
 						lg-text-align="center"
 					>
-						Data export and prinng
+						Data export and pricing
 					</Text>
 					<Text
 						font="--lead"
@@ -2190,7 +2191,7 @@ analysis
 				md-width="80%"
 				sm-font="normal 400 16px/140% --fontFamily-googleInter"
 			>
-				Monitoring processes and applicaons, system events and connecng to a remote desktop make StaffCop Enterprise an indispensable assistant for an IT specialist.
+				Monitoring processes and applications, system events and connecting to a remote desktop make StaffCop Enterprise an indispensable assistant for an IT specialist.
 			</Text>
 		</Section>
 		<Section padding="0px 0 0px 0" background="#000000">
@@ -2324,7 +2325,7 @@ analysis
 							sm-font="normal 300 16px/140% --fontFamily-googleInter"
 							sm-margin="0px 0px 55px 0px"
 						>
-							Register and block the connecon of USB devices by device class. Control of fil  operaons and shadow copies of files copied to USB, read-only mode for removable
+							Register and block the connection of USB devices by device class. Control of file  operations and shadow copies of files copied to USB, read-only mode for removable
 						</Text>
 						<Image loading="lazy" src="https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/bottomimg.png?v=2021-04-07T22:06:29.089Z" nout-width="70%" />
 						{"    "}
@@ -2345,7 +2346,7 @@ analysis
 					sm-font="normal 700 24px/30px Inter, sans-serif"
 					lg-font="normal 700 48px/73px --fontFamily-googleInter"
 				>
-					Controllingemployees on GNY/Linux
+					Controlling employees on GNU/Linux
 				</Text>
 				<Stack margin="0px 0px 0px 0px" justify-content="center">
 					{"    "}
@@ -2470,7 +2471,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								To ensure integrity of business flows and informaon security for banks and financial organizations.
+								To ensure integrity of business flows and information security for banks and financial organizations.
 							</Text>
 						</Box>
 						{"    "}
@@ -2554,7 +2555,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								StaffCop registers file operations: read, write, delete, create and rename. Creaon of shadow copies.
+								StaffCop registers file operations: read, write, delete, create and rename. Creation of shadow copies.
 							</Text>
 						</Box>
 						{"    "}
@@ -2596,7 +2597,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								The system records the user’s upme in applications. From the collected data, a report on the productivity of employees is generated according to the specified criteria. The report data is compared with screenshots by me stamps...
+								The system records the user’s time in applications. From the collected data, a report on the productivity of employees is generated according to the specified criteria. The report data is compared with screenshots by time stamps.
 							</Text>
 						</Box>
 						{"    "}
@@ -2644,7 +2645,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								StaffCop supports intercepon of keystrokes at the core level to control the terminal of servers, as well as intercepon of X-sessions keyboard.
+								StaffCop supports interception of keystrokes at the core level to control the terminal of servers, as well as interception of X-sessions keyboard.
 							</Text>
 						</Box>
 						{"    "}
@@ -2692,7 +2693,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Registraon of facts and duraon of calls, intercepon of SMS-messages.
+								Registration of facts and duration of calls, interception of SMS-messages.
 							</Text>
 						</Box>
 						{"    "}
@@ -2798,10 +2799,18 @@ analysis
 							md-font="normal 700 20px/28px --fontFamily-googleInter"
 							sm-text-align="center"
 						>
-							<Span color="#E87F1F">
+							<Span
+								color="#E87F1F"
+								overflow-wrap="normal"
+								word-break="normal"
+								white-space="normal"
+								text-indent="0"
+								text-overflow="clip"
+								hyphens="manual"
+							>
 								Astra Linux Special Editon
 							</Span>
-							{" "}special purpose operang system compability cerficate Included in The Unified Register of Russian Soware under No. 3337
+							{" "}special purpose operating system compability cerficate Included in The Unified Register of Russian Soware under No. 3337
 						</Text>
 						{"    "}
 					</StackItem>
@@ -2840,7 +2849,7 @@ analysis
 					md-width="80%"
 					sm-font="normal 400 16px/140% --fontFamily-googleInter"
 				>
-					To ensure integrity of business flows and informtiaon
+					To ensure integrity of business flows and information
 					<br />
 					security for banks and financial organizations
 				</Text>
@@ -2973,7 +2982,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Detailed documentaon, prompt and competent technical support. The project team provides full support from the initial testing phase.
+								Detailed documentation, prompt and competent technical support. The project team provides full support from the initial testing phase.
 							</Text>
 						</Box>
 						{"    "}
@@ -3039,7 +3048,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								Possibility of customizaon to specific requirements, integration with other systems and customer’s business processes.
+								Possibility of customization to specific requirements, integration with other systems and customer’s business processes.
 							</Text>
 						</Box>
 						{"    "}
@@ -3374,7 +3383,7 @@ analysis
 							sm-width="100%"
 							sm-margin="8px 0px 24px 0px"
 						>
-							Fully funconal version. Technical support throughout the full project duraon
+							Fully functional version. Technical support throughout the full project duration
 						</Text>
 						<Box
 							margin="0px 0px 0px 0px"
@@ -3404,7 +3413,7 @@ analysis
 								Request demo
 							</Link>
 							<Link
-								href="/pricing/"
+								href="/purchase"
 								padding="16px 68px 16px 68px"
 								border-radius="40px"
 								border-color="#ffffff"
@@ -3544,39 +3553,31 @@ analysis
 						>
 							Pricing
 						</Link>
+						{"    "}
+					</StackItem>
+					<StackItem
+						width="21.3%"
+						display="flex"
+						lg-width="33.333%"
+						md-width="50%"
+						sm-width="100%"
+					>
+						<Override slot="StackItemContent" flex-direction="column" lg-align-items="center" />
+						{"        "}
+						<Text font="normal 700 18px/160% --fontFamily-googleInter" margin="0px 0px 27px 0px" display="inline-block" color="rgba(255, 255, 255,1)">
+							LEARN
+						</Text>
 						<Link
-							href="/"
+							href="https://docs.staffcop.com"
 							color="rgba(255, 255, 255, 0.6)"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
 							margin="0px 0px 21px 0px"
 							hover-color="#ffffff"
 							transition="all 1s ease 0s"
-							md-text-align="center"
+							target="_blank"
 						>
-							Leadership Team
-						</Link>
-						<Link
-							href="/why-us/"
-							color="rgba(255, 255, 255, 0.6)"
-							text-decoration-line="initial"
-							font="normal 300 18px/160% --fontFamily-googleInter"
-							margin="0px 0px 21px 0px"
-							hover-color="#ffffff"
-							transition="all 1s ease 0s"
-						>
-							Why Staffcop?
-						</Link>
-						<Link
-							href="/partners/"
-							color="rgba(255, 255, 255, 0.6)"
-							text-decoration-line="initial"
-							font="normal 300 18px/160% --fontFamily-googleInter"
-							margin="0px 0px 21px 0px"
-							hover-color="#ffffff"
-							transition="all 1s ease 0s"
-						>
-							Our Partners
+							Documentation
 						</Link>
 						<Link
 							href="/white-papers/"
@@ -3601,10 +3602,10 @@ analysis
 						<Override slot="StackItemContent" flex-direction="column" lg-align-items="center" />
 						{"        "}
 						<Text font="normal 700 18px/160% --fontFamily-googleInter" margin="0px 0px 27px 0px" display="inline-block" color="rgba(255, 255, 255,1)">
-							LEARN
+							SUPPORT
 						</Text>
 						<Link
-							href="https://docs.staffcop.ru/en/"
+							href="/partners/"
 							color="rgba(255, 255, 255, 0.6)"
 							text-decoration-line="initial"
 							font="normal 300 18px/160% --fontFamily-googleInter"
@@ -3612,22 +3613,8 @@ analysis
 							hover-color="#ffffff"
 							transition="all 1s ease 0s"
 						>
-							Documentation
+							Our Partners
 						</Link>
-						{"    "}
-					</StackItem>
-					<StackItem
-						width="21.3%"
-						display="flex"
-						lg-width="33.333%"
-						md-width="50%"
-						sm-width="100%"
-					>
-						<Override slot="StackItemContent" flex-direction="column" lg-align-items="center" />
-						{"        "}
-						<Text font="normal 700 18px/160% --fontFamily-googleInter" margin="0px 0px 27px 0px" display="inline-block" color="rgba(255, 255, 255,1)">
-							SUPPORT
-						</Text>
 						<Box display="flex" align-items="center">
 							<Icon category="fa" icon={FaRegLifeRing} color="rgba(255, 255, 255, 0.6)" margin="0px 10px 0px 0px" />
 							<Link

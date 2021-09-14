@@ -1634,6 +1634,11 @@ export default (() => {
 					.
 				</Span>
 			</Override>
+			<Override slot="link" href="/security" />
+			<Override slot="link1" />
+			<Override slot="link2">
+				Try for free
+			</Override>
 		</Components.BlockNeed>
 		<Section
 			background="#ffffff"

@@ -1828,6 +1828,11 @@ export default (() => {
 			<Override slot="text7">
 				Categorize applications and web-sites into productive and unproductive. Set up different configurations for particular users, groups and departments. Compare results.
 			</Override>
+			<Override slot="link" href="/security">
+				Try for free
+			</Override>
+			<Override slot="link1" href="/administration" />
+			<Override slot="link2" href="/monitoring" />
 		</Components.BlockNeed>
 		<Section
 			background="#ffffff"

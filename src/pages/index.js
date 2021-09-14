@@ -2156,6 +2156,7 @@ and remote desktop connection makes StaffCop a must-have tool for an IT speciali
 							margin="0px 0px 10px 0px"
 							hover-color="#ffffff"
 							transition="all 1s ease 0s"
+							target="_blank"
 						>
 							Documentation
 						</Link>
