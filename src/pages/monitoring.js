@@ -1586,10 +1586,12 @@ export default (() => {
 					.
 				</Span>
 			</Override>
-			<Override slot="link1" href="/administration">
+			<Override slot="link1">
 				Try for free
 			</Override>
-			<Override slot="link2" href="/monitoring" />
+			<Override slot="link2">
+				Try for free
+			</Override>
 			<Override slot="link">
 				Try for free
 			</Override>

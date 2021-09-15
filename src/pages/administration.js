@@ -1220,7 +1220,7 @@ control over his keyboard and mouse, and resolves the issues.
 			<Override slot="link">
 				Try for free
 			</Override>
-			<Override slot="link2" href="/monitoring">
+			<Override slot="link2">
 				Try for free
 			</Override>
 			<Override slot="link1">

@@ -859,7 +859,7 @@ With a unified data loss prevention, user activity monitoring, reporting and for
 					.
 				</Span>
 			</Override>
-			<Override slot="link2" href="/monitoring">
+			<Override slot="link2">
 				Try for free
 			</Override>
 		</Components.BlockNeed>

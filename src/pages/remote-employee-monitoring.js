@@ -2534,11 +2534,11 @@ idle time, productive vs. unproductive time, session vs. work time to track empl
 					.
 				</Span>
 			</Override>
-			<Override slot="link" href="/security" />
-			<Override slot="link1" href="/administration">
+			<Override slot="link" />
+			<Override slot="link1">
 				Try for free
 			</Override>
-			<Override slot="link2" href="/monitoring" />
+			<Override slot="link2" />
 		</Components.BlockNeed>
 		<Section
 			background="#ffffff"
