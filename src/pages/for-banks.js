@@ -1,6 +1,6 @@
 import React from "react";
 import theme from "theme";
-import { Theme, Link, Box, Image, Section, Text, Button, Icon, Span } from "@quarkly/widgets";
+import { Theme, Link, Box, Image, Section, Text, Icon, Span } from "@quarkly/widgets";
 import { Helmet } from "react-helmet";
 import { GlobalQuarklyPageStyles } from "global-page-styles";
 import { RawHtml, Override, StackItem, Menu, Stack, SocialMedia } from "@quarkly/components";
@@ -941,39 +941,7 @@ and terminal servers
 					{"    "}
 				</StackItem>
 				{"    "}
-				<Button
-					id="hider-1"
-					position="relative"
-					z-index="9"
-					type="button"
-					background="rgba(17, 74, 202, 0)"
-					border-color="rgba(255, 255, 255, 0.1)"
-					border-width="2px"
-					border-style="solid"
-					border-radius="40px"
-					font="--menu"
-					padding="24px 36px 24px 36px"
-					hover-background="--color-primary"
-					margin="-90px 0px 0px 0px"
-					max-height="74px"
-					lg-display="none"
-					disabled={false}
-					transition="-webkit-transition: all .3s;  transition: all .3s"
-				>
-					Show more advantages
-				</Button>
 			</Stack>
-			<Box
-				id="content-1"
-				position="absolute"
-				bottom="0px"
-				left="auto"
-				background="linear-gradient(180deg,rgba(0, 0, 0, 0) 1.09%,rgba(0, 0, 0, 0) 16.2%,#000000 60.5%)"
-				width="100%"
-				height="450px"
-				z-index="3"
-				lg-display="none"
-			/>
 		</Section>
 		<Section padding="70px 0 70px 0" background="#000000" md-padding="30px 0 30px 0">
 			<Override slot="SectionContent" max-width="none" align-items="center" width="90%" />
@@ -2747,36 +2715,6 @@ and terminal servers
 					</StackItem>
 					{"    "}
 				</Stack>
-				<Button
-					id="hider"
-					position="relative"
-					z-index="9"
-					type="button"
-					background="rgba(17, 74, 202, 0)"
-					border-color="rgba(255, 255, 255, 0.1)"
-					border-width="2px"
-					border-style="solid"
-					border-radius="40px"
-					font="--menu"
-					padding="24px 36px 24px 36px"
-					transition="-webkit-transition: all .3s;  transition: all .3s"
-					hover-background="--color-primary"
-					margin="-90px 0px 0px 0px"
-				>
-					Show more advantages
-				</Button>
-				<Box
-					id="content"
-					position="absolute"
-					bottom="0px"
-					left="auto"
-					background="linear-gradient(180deg,rgba(0, 0, 0, 0) 1.09%,rgba(0, 0, 0, 0) 16.2%,#000000 71.4%)"
-					width="100%"
-					height="750px"
-					z-index="3"
-					top="auto"
-					right="auto"
-				/>
 			</Section>
 			<Section padding="70px 0 70px 0">
 				<Override slot="SectionContent" max-width="1200px" background="#FAFCFF" border-radius="30px" />

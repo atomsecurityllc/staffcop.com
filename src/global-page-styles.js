@@ -59,7 +59,6 @@ const pageStyles = {
     "purchase": {},
     "request-demo": {},
     "leadership": {},
-    "pur2": {},
     "demo-request": {},
     "for-banks": {
         "background": "#000000"
