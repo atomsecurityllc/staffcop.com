@@ -11,7 +11,7 @@ export default (() => {
 		<GlobalQuarklyPageStyles pageUrl={"administration"} />
 		<Helmet>
 			<title>
-				Starter
+				StaffCop: Remote Administration
 			</title>
 			<meta name={"description"} content={"StaffCop provides a unique, fully integrated solution that focuses on detection and response to insider threats through a combination of advanced behavioral analysis and context-rich logging of insider activity.\n\n"} />
 			<meta property={"og:title"} content={"StaffCop Enterprise"} />

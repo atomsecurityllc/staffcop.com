@@ -493,7 +493,7 @@ and terminal servers
 				computers and terminal servers
 			</Text>
 		</Section>
-		<Section background="#000000 url(https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fonchik2.png?v=2021-04-29T08:30:36.568Z) center center/80% no-repeat" border-color="#161616" padding="48px 0 110px 0">
+		<Section border-color="#161616" padding="48px 0 110px 0" background="#000000 url(https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fonchik2.png?v=2021-04-29T08:30:36.568Z) center center/80% no-repeat">
 			<Override slot="SectionContent" max-width="1200px" position="relative" />
 			<Stack margin="0px 0px 0px 0px" justify-content="center">
 				{"    "}
@@ -678,8 +678,7 @@ and terminal servers
 								color="#ffffff"
 								sm-font="normal 600 20px/140% Inter, sans-serif"
 							>
-								User behavior analysis Automatic
-analysis
+								User behavior analysis
 							</Text>
 							<Text
 								font="normal 400 18px/160% --fontFamily-googleInter"
@@ -688,7 +687,7 @@ analysis
 								color="rgba(255, 255, 255, 0.6)"
 								sm-font="normal 400 16px/140% Inter, sans-serif"
 							>
-								To ensure integrity of business flows and informaon security for banks and financial organizations.
+								To ensure integrity of business flows and information security for banks and financial organizations.
 							</Text>
 						</Link>
 					</Box>
@@ -954,12 +953,12 @@ analysis
 					border-radius="40px"
 					font="--menu"
 					padding="24px 36px 24px 36px"
-					transition="-webkit-transition: all .3s;  transition: all .3s"
 					hover-background="--color-primary"
 					margin="-90px 0px 0px 0px"
 					max-height="74px"
 					lg-display="none"
 					disabled={false}
+					transition="-webkit-transition: all .3s;  transition: all .3s"
 				>
 					Show more advantages
 				</Button>
