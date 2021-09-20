@@ -2219,6 +2219,7 @@ Besides, StaffCop enables you to conform to compliance regulations, including GD
 				</StackItem>
 			</Stack>
 		</Section>
+		<Hr />
 		<Link
 			font={"--capture"}
 			font-size={"10px"}
