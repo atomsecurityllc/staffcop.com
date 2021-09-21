@@ -173,7 +173,7 @@ export default (() => {
 						/>
 						<Text margin="9px 0px 9px 18px" color="#555" font="400 18px/160% --fontFamily-googleInter" sm-font="400 16px/22px --fontFamily-googleInter">
 							by e-mail{" "}
-							<Link href="malito:support@staffcop.com" text-decoration-line="initial" color="--primary" hover-text-decoration-line="underline">
+							<Link href="mailto:support@staffcop.com" text-decoration-line="initial" color="--primary" hover-text-decoration-line="underline">
 								support@staffcop.com
 							</Link>
 						</Text>

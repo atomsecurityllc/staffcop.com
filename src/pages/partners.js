@@ -72,7 +72,6 @@ export default (() => {
 				{"    "}
 			</Stack>
 		</Section>
-		<Components.EmbedHTML />
 		<Section background="#FFFFFF" padding="24px 0 70px 0" sm-padding="24px 0 50px 0">
 			<Override slot="SectionContent" max-width="1200px" background="rgba(0, 0, 0, 0)" />
 			<Stack margin="0px 0px 0px 0px">
@@ -148,10 +147,8 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link color="#1465FF" href="malito:info@blackwallsolutions.com" text-decoration-line="initial">
-							<Link href="mailto:sales@cogitosoft.com" text-decoration-line="initial">
-								enquiries@i2biz.com.au
-							</Link>
+						<Link href="mailto:enquiries@i2biz.com.au" text-decoration-line="initial">
+							enquiries@i2biz.com.au
 						</Link>
 					</Text>
 				</StackItem>
@@ -207,10 +204,8 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link color="#1465FF" href="malito:info@blackwallsolutions.com" text-decoration-line="initial">
-							<Link href="mailto:sales@cogitosoft.com" text-decoration-line="initial">
-								sales@cogitosoft.com
-							</Link>
+						<Link href="mailto:sales@cogitosoft.com" text-decoration-line="initial">
+							sales@cogitosoft.com
 						</Link>
 					</Text>
 				</StackItem>
@@ -252,7 +247,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link text-decoration-line="initial" color="#1465FF" href="malito:info@blackwallsolutions.com">
+						<Link href="mailto:info@ehws.biz" text-decoration-line="initial">
 							info@ehws.biz
 						</Link>
 					</Text>
@@ -295,7 +290,9 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						ishaan@himtechdist.com
+						<Link text-decoration-line="initial" href="mailto:ishaan@himtechdist.com">
+							ishaan@himtechdist.com
+						</Link>
 					</Text>
 				</StackItem>
 				{"  "}
@@ -379,7 +376,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link text-decoration-line="initial" color="#1465FF" href="malito:info@blackwallsolutions.com">
+						<Link text-decoration-line="initial" href="mailto:info@normyazilim.com">
 							info@normyazilim.com
 						</Link>
 					</Text>
@@ -421,7 +418,9 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						rich.yu@cogitosoft.com
+						<Link text-decoration-line="initial" href="mailto:rich.yu@cogitosoft.com">
+							rich.yu@cogitosoft.com
+						</Link>
 					</Text>
 				</StackItem>
 				{"  "}
@@ -461,17 +460,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link
-							text-decoration-line="initial"
-							color="#1465FF"
-							href="malito:info@blackwallsolutions.com"
-							overflow-wrap="normal"
-							word-break="normal"
-							white-space="normal"
-							text-indent="0"
-							text-overflow="clip"
-							hyphens="manual"
-						>
+						<Link text-decoration-line="initial" href="mailto:sales@cogitosoft.com">
 							sales@cogitosoft.com
 						</Link>
 					</Text>
@@ -513,7 +502,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link text-decoration-line="initial" color="#1465FF" href="malito:info@blackwallsolutions.com">
+						<Link text-decoration-line="initial" href="mailto:sales@cogitosoft.com">
 							sales@cogitosoft.com
 						</Link>
 					</Text>
@@ -532,9 +521,7 @@ export default (() => {
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
 					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
-						<Link href="https://staffcop.com.vn/">
-							Tri Thuc
-						</Link>
+						Tri Thuc
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -555,7 +542,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link text-decoration-line="initial" color="#1465FF" href="malito:info@blackwallsolutions.com">
+						<Link text-decoration-line="initial" href="mailto:sales@staffcop.com.vn">
 							sales@staffcop.com.vn
 						</Link>
 					</Text>
@@ -595,7 +582,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link text-decoration-line="initial" color="#1465FF" href="malito:info@blackwallsolutions.com">
+						<Link text-decoration-line="initial" href="mailto:alek@beker.rs">
 							alek@beker.rs
 						</Link>
 					</Text>
@@ -635,7 +622,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link text-decoration-line="initial" color="#1465FF" href="malito:info@blackwallsolutions.com">
+						<Link text-decoration-line="initial" href="mailto:info@mindinfo.hu">
 							info@mindinfo.hu
 						</Link>
 					</Text>
@@ -654,9 +641,7 @@ export default (() => {
 				<StackItem width="33.333%" md-width="100%">
 					<Override slot="StackItemContent" md-justify-content="center" align-items="center" />
 					<Text font="normal 400 18px/28px --fontFamily-googleInter" letter-spacing="-1%" color="#1465FF" margin="0px 0px 0px 0px">
-						<Link href="http://staffcop.ec/">
-							Vocot. C. A.
-						</Link>
+						Vocot. C. A.
 					</Text>
 				</StackItem>
 				<StackItem width="33.333%" md-width="100%">
@@ -677,10 +662,8 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link text-decoration-line="initial" color="#1465FF" href="malito:info@blackwallsolutions.com">
-							<Link href="mailto:morales.v@vokot.ec">
-								morales.v@vokot.ec
-							</Link>
+						<Link text-decoration-line="initial" href="mailto:morales.v@vokot.ec">
+							morales.v@vokot.ec
 						</Link>
 					</Text>
 				</StackItem>
@@ -723,7 +706,9 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						ventas@auditoria.com.mx
+						<Link text-decoration-line="initial" href="mailto:ventas@auditoria.com.mx">
+							ventas@auditoria.com.mx
+						</Link>
 					</Text>
 				</StackItem>
 				{"  "}
@@ -763,7 +748,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link text-decoration-line="initial" color="#1465FF" href="malito:info@blackwallsolutions.com">
+						<Link text-decoration-line="initial" href="mailto:info@visibleone.com">
 							info@visibleone.com
 						</Link>
 					</Text>
@@ -805,7 +790,7 @@ export default (() => {
 						margin="0px 0px 0px 0px"
 						text-align="right"
 					>
-						<Link text-decoration-line="initial" color="#1465FF" href="malito:info@blackwallsolutions.com">
+						<Link text-decoration-line="initial" href="mailto:sales@securezone.com.ph">
 							sales@securezone.com.ph
 						</Link>
 					</Text>
@@ -841,7 +826,9 @@ export default (() => {
 					>
 						+603 7710 8388
 						<br />
-						sales@lambdatech.net
+						<Link text-decoration-line="initial" href="mailto:sales@lambdatech.net">
+							sales@lambdatech.net
+						</Link>
 					</Text>
 				</StackItem>
 				{"  "}
@@ -921,10 +908,8 @@ export default (() => {
 						text-align="right"
 						sm-text-align="center"
 					>
-						<Link href="#">
-							<Link href="mailto:sales@softdebut.com">
-								sales@softdebut.com
-							</Link>
+						<Link text-decoration-line="initial" href="mailto:sales@softdebut.com">
+							sales@softdebut.com
 						</Link>
 					</Text>
 				</StackItem>
@@ -967,14 +952,15 @@ export default (() => {
 						text-align="right"
 						sm-text-align="center"
 					>
-						<Link href="mailto:info@kum.co.id">
-							info@kum.co.id
+						<Link text-decoration-line="initial" href="mailto:info@kum.co.id">
+							info@info@kum.co.id
 						</Link>
 					</Text>
 				</StackItem>
 				{"  "}
 			</Stack>
 		</Section>
+		<Components.EmbedHTML />
 		<Section padding="0px 0 0px 0" background="url(https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/head-13.svg?v=2020-10-20T19:28:03.243Z) center -346px/3610px no-repeat">
 			<Override slot="SectionContent" max-width="none" width="100%" />
 			<Components.Form />
