@@ -78,7 +78,7 @@ export default (() => {
 						sm-justify-content="flex-start"
 					/>
 					<Link href="/" sm-margin="4px 0px 0px 0px">
-						<Image width="100%" src="https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/logoblack.svg?v=2021-04-05T12:18:51.158Z" padding="2px 0px 0px 0px" />
+						<Image width="100%" src="https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/logo_white%20%281%29.svg?v=2023-08-25T08:28:35.300Z" padding="2px 0px 0px 0px" />
 					</Link>
 				</StackItem>
 				<StackItem

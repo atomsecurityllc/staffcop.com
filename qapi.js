@@ -5,7 +5,7 @@ export default {
 			"pageUrl": "printed-document-tracking",
 			"name": "Printed document  tracking",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Printed document  tracking"
 			}
 		},
@@ -13,7 +13,7 @@ export default {
 			"pageUrl": "insider-threat-detection-and-prevention",
 			"name": "Insider Threat Detection & Prevention",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Insider Threat Detection & Prevention"
 			},
 			"id": "5f978977b40b56001e952426"
@@ -23,7 +23,7 @@ export default {
 			"pageUrl": "government-and-public-sector-cyber-security",
 			"name": "Government & Public  Sector Cyber Security",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Government & Public  Sector Cyber Security"
 			}
 		},
@@ -31,7 +31,7 @@ export default {
 			"pageUrl": "remote-employee-monitoring",
 			"name": "Remote Employee Monitoring",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Remote Employee Monitoring"
 			},
 			"id": "5f99c9ff7b805a001eaa3e40"
@@ -40,7 +40,7 @@ export default {
 			"pageUrl": "partners",
 			"name": "Partners",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Partners"
 			},
 			"id": "5fa2018d89bfbe001e5f779e"
@@ -81,7 +81,8 @@ export default {
 			"name": "404",
 			"pageUrl": "404",
 			"seo": {
-				"title": "404 - Not page"
+				"title": "404 - Not page",
+				"favicon_32px": ""
 			}
 		},
 		"5f9198c5e5a236001eeb5abf": {
@@ -90,14 +91,14 @@ export default {
 			"name": "Information Security",
 			"seo": {
 				"title": "StaffCop: Information Security",
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z"
+				"favicon_32px": ""
 			}
 		},
 		"5f937068a37bff001ef6952d": {
 			"name": "Custom reports",
 			"seo": {
 				"title": "Configurable Monitoring Profiles",
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z"
+				"favicon_32px": ""
 			},
 			"id": "5f937068a37bff001ef6952d",
 			"pageUrl": "custom-reports"
@@ -107,14 +108,14 @@ export default {
 			"pageUrl": "for-financial-sector",
 			"name": "For Financial Sector",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "For Financial Sector"
 			}
 		},
 		"5f936bace5a236001eeb5e7e": {
 			"seo": {
 				"title": "Active vs. Idle Time Analysis",
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z"
+				"favicon_32px": ""
 			},
 			"id": "5f936bace5a236001eeb5e7e",
 			"pageUrl": "active-vs-idle-time-analysis",
@@ -125,7 +126,7 @@ export default {
 			"pageUrl": "nonproductive-activity-reporting",
 			"name": "Nonproductive Activity Reporting",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Nonproductive Activity Reporting"
 			}
 		},
@@ -133,7 +134,7 @@ export default {
 			"pageUrl": "white-papers",
 			"name": "White Papers",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "White Papers"
 			},
 			"id": "5fa20b0489bfbe001e5f77b2"
@@ -142,7 +143,7 @@ export default {
 			"pageUrl": "request-demo",
 			"name": "Request demo",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Request demo"
 			},
 			"id": "5fab84df08b41a001fec0093"
@@ -152,7 +153,7 @@ export default {
 			"pageUrl": "leadership",
 			"name": "Solutions",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Leadership"
 			}
 		},
@@ -194,7 +195,7 @@ export default {
 				"601a90d4372cb7001f0e11c6"
 			],
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Features"
 			}
 		},
@@ -203,7 +204,7 @@ export default {
 			"pageUrl": "employee-internet-monitoring",
 			"name": "Employee Internet Monitoring",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Employee Internet Monitoring"
 			}
 		},
@@ -212,7 +213,7 @@ export default {
 			"pageUrl": "optical-character-recognition-ocr",
 			"name": "Optical Character Recognition (OCR)",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Optical Character Recognition (OCR)"
 			}
 		},
@@ -221,7 +222,7 @@ export default {
 			"pageUrl": "smart-rules-and-alerts",
 			"name": "Smart rules & alerts",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Smart rules & alerts"
 			}
 		},
@@ -230,7 +231,7 @@ export default {
 			"pageUrl": "third-party-vendor-management",
 			"name": "Third Party Vendor Management",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Third Party Vendor Management"
 			}
 		},
@@ -239,7 +240,7 @@ export default {
 			"pageUrl": "remote-desktop-control",
 			"name": "Remote Desktop Control",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Remote Desktop Control"
 			}
 		},
@@ -248,7 +249,7 @@ export default {
 			"pageUrl": "about-us",
 			"name": "About Us",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "About Us"
 			}
 		},
@@ -257,7 +258,7 @@ export default {
 			"pageUrl": "purchase",
 			"name": "Purchase",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Pricing"
 			}
 		},
@@ -271,7 +272,7 @@ export default {
 			"pageUrl": "gdpr-compliance",
 			"name": "GDPR Compliance",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "GDPR Compliance"
 			}
 		},
@@ -280,7 +281,7 @@ export default {
 			"pageUrl": "for-hipaa",
 			"name": "For HIPAA",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "For HIPAA"
 			}
 		},
@@ -295,14 +296,15 @@ export default {
 			"pageUrl": "index",
 			"seo": {
 				"title": "StaffCop Enterprise",
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z"
+				"favicon_32px": "",
+				"favicon_apple_152px": ""
 			}
 		},
 		"5f92d7afe5a236001eeb5c8d": {
 			"pageUrl": "e-mail-monitoring",
 			"name": "E-mail monitoring",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "E-mail monitoring"
 			},
 			"id": "5f92d7afe5a236001eeb5c8d"
@@ -312,7 +314,7 @@ export default {
 			"pageUrl": "session-recording-and-metadata",
 			"name": "Session Recording & Metadata",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Session Recording & Metadata"
 			}
 		},
@@ -322,12 +324,12 @@ export default {
 			"name": "Cases",
 			"seo": {
 				"title": "Solutions",
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z"
+				"favicon_32px": ""
 			}
 		},
 		"5f99ea17021c7d001f69b3bf": {
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Productivity  optimization"
 			},
 			"id": "5f99ea17021c7d001f69b3bf",
@@ -336,7 +338,7 @@ export default {
 		},
 		"5f936beeb40b56001e951d85": {
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Citrix Session Recording"
 			},
 			"id": "5f936beeb40b56001e951d85",
@@ -353,7 +355,7 @@ export default {
 			"pageUrl": "live-employee-desktop",
 			"name": "Live Employee Desktop",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Live Employee Desktop"
 			}
 		},
@@ -362,7 +364,7 @@ export default {
 			"pageUrl": "file-activity-monitoring-software",
 			"name": "File Activity Monitoring Software",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "File Activity Monitoring Software"
 			}
 		},
@@ -371,7 +373,7 @@ export default {
 			"pageUrl": "for-legal",
 			"name": "For Legal",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "For Legal"
 			}
 		},
@@ -416,7 +418,7 @@ export default {
 		},
 		"5f934446e5a236001eeb5e12": {
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Employee Productivity Tracking"
 			},
 			"id": "5f934446e5a236001eeb5e12",
@@ -428,7 +430,7 @@ export default {
 			"pageUrl": "application-usage-monitoring",
 			"name": "App usage/application monitoring",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Network User Activity Monitoring"
 			}
 		},
@@ -437,7 +439,7 @@ export default {
 			"pageUrl": "instant-message-monitoring",
 			"name": "Instant Message Monitoring",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Instant Message Monitoring"
 			}
 		},
@@ -445,7 +447,7 @@ export default {
 			"pageUrl": "retail-and-ecommerce-cyber-security",
 			"name": "Retail & Ecommerce  Cyber Security",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Retail & Ecommerce  Cyber Security"
 			},
 			"id": "5fa1d3e27523b7001e45fa03"
@@ -460,7 +462,7 @@ export default {
 			"pageUrl": "why-us",
 			"name": "Why Us?",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Why Us?"
 			}
 		},
@@ -472,7 +474,7 @@ export default {
 		"5f8c35772e3a2a001faf7788": {
 			"name": "Remote Administration",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "StaffCop: Remote Administration"
 			},
 			"id": "5f8c35772e3a2a001faf7788",
@@ -480,7 +482,7 @@ export default {
 		},
 		"5f90cf52b40b56001e9517aa": {
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "StaffCop: Employee Monitoring"
 			},
 			"id": "5f90cf52b40b56001e9517aa",
@@ -497,7 +499,7 @@ export default {
 			"pageUrl": "compliance-management-auditing-and-monitoring",
 			"name": "Compliance Management, Auditing & Monitoring",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Compliance Management, Auditing & Monitoring"
 			}
 		},
@@ -507,13 +509,13 @@ export default {
 			"name": "PCI DSS Compliance & Certification",
 			"seo": {
 				"title": "PCI DSS Compliance & Certification",
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z"
+				"favicon_32px": ""
 			}
 		},
 		"5fa2141b7b805a001eaa456b": {
 			"name": "Support",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Support"
 			},
 			"id": "5fa2141b7b805a001eaa456b",
@@ -525,13 +527,13 @@ export default {
 			"name": "Network activity monitoring",
 			"seo": {
 				"title": "App usage/application  monitoring ",
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z"
+				"favicon_32px": ""
 			}
 		},
 		"5f99e1febdea00001fe539f5": {
 			"name": "Privileged User Monitoring",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Privileged User Monitoring"
 			},
 			"id": "5f99e1febdea00001fe539f5",
@@ -542,7 +544,7 @@ export default {
 			"pageUrl": "keystroke-monitoring",
 			"name": "Keystroke Monitoring",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Keystroke Monitoring"
 			}
 		},
@@ -551,7 +553,7 @@ export default {
 			"pageUrl": "iso-27001-compliance",
 			"name": "General Data Protection Regulation (GDPR)",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "ISO 27001 Compliance"
 			}
 		},
@@ -560,7 +562,7 @@ export default {
 			"pageUrl": "energy-and-utilities-sector-cyber-security",
 			"name": "Energy & Utilities Sector Cyber Security",
 			"seo": {
-				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/fav.svg?v=2020-11-28T11:58:11.223Z",
+				"favicon_32px": "",
 				"title": "Energy & Utilities Sector Cyber Security"
 			}
 		},
