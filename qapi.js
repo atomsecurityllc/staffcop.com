@@ -5,16 +5,20 @@ export default {
 			"pageUrl": "printed-document-tracking",
 			"name": "Printed document  tracking",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Printed document  tracking"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Printed document  tracking",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f978977b40b56001e952426": {
 			"pageUrl": "insider-threat-detection-and-prevention",
 			"name": "Insider Threat Detection & Prevention",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Insider Threat Detection & Prevention"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Insider Threat Detection & Prevention",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f978977b40b56001e952426"
 		},
@@ -23,16 +27,20 @@ export default {
 			"pageUrl": "government-and-public-sector-cyber-security",
 			"name": "Government & Public  Sector Cyber Security",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Government & Public  Sector Cyber Security"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Government & Public  Sector Cyber Security",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f99c9ff7b805a001eaa3e40": {
 			"pageUrl": "remote-employee-monitoring",
 			"name": "Remote Employee Monitoring",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Remote Employee Monitoring"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Remote Employee Monitoring",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f99c9ff7b805a001eaa3e40"
 		},
@@ -40,15 +48,22 @@ export default {
 			"pageUrl": "partners",
 			"name": "Partners",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Partners"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Partners",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5fa2018d89bfbe001e5f779e"
 		},
 		"601a88688e7be4001e978019": {
 			"id": "601a88688e7be4001e978019",
 			"pageUrl": "file-scanner",
-			"name": "File Scanner"
+			"name": "File Scanner",
+			"seo": {
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
+			}
 		},
 		"60642dce36274f001fc8fea3": {
 			"pageUrl": "for-banks",
@@ -74,7 +89,12 @@ export default {
 			"styles": {
 				"background": "#000000"
 			},
-			"id": "60642dce36274f001fc8fea3"
+			"id": "60642dce36274f001fc8fea3",
+			"seo": {
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
+			}
 		},
 		"5f844e532e3a2a001faf55bb": {
 			"id": "5f844e532e3a2a001faf55bb",
@@ -91,14 +111,18 @@ export default {
 			"name": "Information Security",
 			"seo": {
 				"title": "StaffCop: Information Security",
-				"favicon_32px": ""
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f937068a37bff001ef6952d": {
 			"name": "Custom reports",
 			"seo": {
 				"title": "Configurable Monitoring Profiles",
-				"favicon_32px": ""
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f937068a37bff001ef6952d",
 			"pageUrl": "custom-reports"
@@ -108,14 +132,18 @@ export default {
 			"pageUrl": "for-financial-sector",
 			"name": "For Financial Sector",
 			"seo": {
-				"favicon_32px": "",
-				"title": "For Financial Sector"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "For Financial Sector",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f936bace5a236001eeb5e7e": {
 			"seo": {
 				"title": "Active vs. Idle Time Analysis",
-				"favicon_32px": ""
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f936bace5a236001eeb5e7e",
 			"pageUrl": "active-vs-idle-time-analysis",
@@ -126,16 +154,20 @@ export default {
 			"pageUrl": "nonproductive-activity-reporting",
 			"name": "Nonproductive Activity Reporting",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Nonproductive Activity Reporting"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Nonproductive Activity Reporting",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5fa20b0489bfbe001e5f77b2": {
 			"pageUrl": "white-papers",
 			"name": "White Papers",
 			"seo": {
-				"favicon_32px": "",
-				"title": "White Papers"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "White Papers",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5fa20b0489bfbe001e5f77b2"
 		},
@@ -143,8 +175,10 @@ export default {
 			"pageUrl": "request-demo",
 			"name": "Request demo",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Request demo"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Request demo",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5fab84df08b41a001fec0093"
 		},
@@ -153,14 +187,21 @@ export default {
 			"pageUrl": "leadership",
 			"name": "Solutions",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Leadership"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Leadership",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"601a66196c1e89001ea0aec6": {
 			"id": "601a66196c1e89001ea0aec6",
 			"pageUrl": "usb-device-control",
-			"name": "USB device control"
+			"name": "USB device control",
+			"seo": {
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
+			}
 		},
 		"5f91f5a2e5a236001eeb5b39": {
 			"id": "5f91f5a2e5a236001eeb5b39",
@@ -195,8 +236,10 @@ export default {
 				"601a90d4372cb7001f0e11c6"
 			],
 			"seo": {
-				"favicon_32px": "",
-				"title": "Features"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Features",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f92cb00a37bff001ef692cf": {
@@ -204,8 +247,10 @@ export default {
 			"pageUrl": "employee-internet-monitoring",
 			"name": "Employee Internet Monitoring",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Employee Internet Monitoring"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Employee Internet Monitoring",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f933586a37bff001ef69441": {
@@ -213,8 +258,10 @@ export default {
 			"pageUrl": "optical-character-recognition-ocr",
 			"name": "Optical Character Recognition (OCR)",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Optical Character Recognition (OCR)"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Optical Character Recognition (OCR)",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f9336dec7fb89001e92490d": {
@@ -222,8 +269,10 @@ export default {
 			"pageUrl": "smart-rules-and-alerts",
 			"name": "Smart rules & alerts",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Smart rules & alerts"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Smart rules & alerts",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f9a1aaebdea00001fe53a23": {
@@ -231,8 +280,10 @@ export default {
 			"pageUrl": "third-party-vendor-management",
 			"name": "Third Party Vendor Management",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Third Party Vendor Management"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Third Party Vendor Management",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f936b52b40b56001e951d77": {
@@ -240,8 +291,10 @@ export default {
 			"pageUrl": "remote-desktop-control",
 			"name": "Remote Desktop Control",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Remote Desktop Control"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Remote Desktop Control",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5fa1e5ff7523b7001e45fa0f": {
@@ -249,8 +302,10 @@ export default {
 			"pageUrl": "about-us",
 			"name": "About Us",
 			"seo": {
-				"favicon_32px": "",
-				"title": "About Us"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "About Us",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5fa2155f7b805a001eaa4571": {
@@ -258,22 +313,31 @@ export default {
 			"pageUrl": "purchase",
 			"name": "Purchase",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Pricing"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Pricing",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"601a81bb179f5c00220681e2": {
 			"id": "601a81bb179f5c00220681e2",
 			"pageUrl": "voice-communication-recording",
-			"name": "Voice communication recording"
+			"name": "Voice communication recording",
+			"seo": {
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
+			}
 		},
 		"5f9b72727523b7001e45f4ff": {
 			"id": "5f9b72727523b7001e45f4ff",
 			"pageUrl": "gdpr-compliance",
 			"name": "GDPR Compliance",
 			"seo": {
-				"favicon_32px": "",
-				"title": "GDPR Compliance"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "GDPR Compliance",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f9df96ffe68cf001ebadbc4": {
@@ -281,14 +345,21 @@ export default {
 			"pageUrl": "for-hipaa",
 			"name": "For HIPAA",
 			"seo": {
-				"favicon_32px": "",
-				"title": "For HIPAA"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "For HIPAA",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"601a47eb372cb7001f0e0fda": {
 			"id": "601a47eb372cb7001f0e0fda",
 			"pageUrl": "user-card",
-			"name": "User Card"
+			"name": "User Card",
+			"seo": {
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
+			}
 		},
 		"5f844e532e3a2a001faf55bd": {
 			"id": "5f844e532e3a2a001faf55bd",
@@ -296,16 +367,19 @@ export default {
 			"pageUrl": "index",
 			"seo": {
 				"title": "StaffCop Enterprise",
-				"favicon_32px": "",
-				"favicon_apple_152px": ""
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f92d7afe5a236001eeb5c8d": {
 			"pageUrl": "e-mail-monitoring",
 			"name": "E-mail monitoring",
 			"seo": {
-				"favicon_32px": "",
-				"title": "E-mail monitoring"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "E-mail monitoring",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f92d7afe5a236001eeb5c8d"
 		},
@@ -314,8 +388,10 @@ export default {
 			"pageUrl": "session-recording-and-metadata",
 			"name": "Session Recording & Metadata",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Session Recording & Metadata"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Session Recording & Metadata",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f99bcd61fae5f001ff6c0bc": {
@@ -324,13 +400,17 @@ export default {
 			"name": "Cases",
 			"seo": {
 				"title": "Solutions",
-				"favicon_32px": ""
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f99ea17021c7d001f69b3bf": {
 			"seo": {
-				"favicon_32px": "",
-				"title": "Productivity  optimization"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Productivity  optimization",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f99ea17021c7d001f69b3bf",
 			"pageUrl": "productivity-optimization",
@@ -338,8 +418,10 @@ export default {
 		},
 		"5f936beeb40b56001e951d85": {
 			"seo": {
-				"favicon_32px": "",
-				"title": "Citrix Session Recording"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Citrix Session Recording",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f936beeb40b56001e951d85",
 			"pageUrl": "linux-terminal-capture",
@@ -348,15 +430,22 @@ export default {
 		"601a90d4372cb7001f0e11c6": {
 			"id": "601a90d4372cb7001f0e11c6",
 			"pageUrl": "software-and-hardware-inventory",
-			"name": "Software and Hardware Inventory"
+			"name": "Software and Hardware Inventory",
+			"seo": {
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
+			}
 		},
 		"5f91fe1eb40b56001e951a27": {
 			"id": "5f91fe1eb40b56001e951a27",
 			"pageUrl": "live-employee-desktop",
 			"name": "Live Employee Desktop",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Live Employee Desktop"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Live Employee Desktop",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f9308ccc7fb89001e92487d": {
@@ -364,8 +453,10 @@ export default {
 			"pageUrl": "file-activity-monitoring-software",
 			"name": "File Activity Monitoring Software",
 			"seo": {
-				"favicon_32px": "",
-				"title": "File Activity Monitoring Software"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "File Activity Monitoring Software",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f9f0c817523b7001e45f665": {
@@ -373,8 +464,10 @@ export default {
 			"pageUrl": "for-legal",
 			"name": "For Legal",
 			"seo": {
-				"favicon_32px": "",
-				"title": "For Legal"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "For Legal",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"root": {
@@ -418,8 +511,10 @@ export default {
 		},
 		"5f934446e5a236001eeb5e12": {
 			"seo": {
-				"favicon_32px": "",
-				"title": "Employee Productivity Tracking"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Employee Productivity Tracking",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f934446e5a236001eeb5e12",
 			"pageUrl": "employee-productivity-tracking",
@@ -430,8 +525,10 @@ export default {
 			"pageUrl": "application-usage-monitoring",
 			"name": "App usage/application monitoring",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Network User Activity Monitoring"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Network User Activity Monitoring",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f936a53e5a236001eeb5e68": {
@@ -439,51 +536,71 @@ export default {
 			"pageUrl": "instant-message-monitoring",
 			"name": "Instant Message Monitoring",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Instant Message Monitoring"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Instant Message Monitoring",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5fa1d3e27523b7001e45fa03": {
 			"pageUrl": "retail-and-ecommerce-cyber-security",
 			"name": "Retail & Ecommerce  Cyber Security",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Retail & Ecommerce  Cyber Security"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Retail & Ecommerce  Cyber Security",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5fa1d3e27523b7001e45fa03"
 		},
 		"601a555471e66d001efb10cf": {
 			"pageUrl": "screen-capture",
 			"name": "Screen Capture",
-			"id": "601a555471e66d001efb10cf"
+			"id": "601a555471e66d001efb10cf",
+			"seo": {
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
+			}
 		},
 		"5fa1fef3021c7d001f69bb5f": {
 			"id": "5fa1fef3021c7d001f69bb5f",
 			"pageUrl": "why-us",
 			"name": "Why Us?",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Why Us?"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Why Us?",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"6036b25b7defbd001eed4e08": {
 			"name": "Demo request",
 			"id": "6036b25b7defbd001eed4e08",
-			"pageUrl": "demo-request"
+			"pageUrl": "demo-request",
+			"seo": {
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
+			}
 		},
 		"5f8c35772e3a2a001faf7788": {
 			"name": "Remote Administration",
 			"seo": {
-				"favicon_32px": "",
-				"title": "StaffCop: Remote Administration"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "StaffCop: Remote Administration",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f8c35772e3a2a001faf7788",
 			"pageUrl": "administration"
 		},
 		"5f90cf52b40b56001e9517aa": {
 			"seo": {
-				"favicon_32px": "",
-				"title": "StaffCop: Employee Monitoring"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "StaffCop: Employee Monitoring",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f90cf52b40b56001e9517aa",
 			"pageUrl": "monitoring",
@@ -492,15 +609,22 @@ export default {
 		"601a7077bfd603001f71b572": {
 			"id": "601a7077bfd603001f71b572",
 			"pageUrl": "dlp-features",
-			"name": "Data Leak Prevention (DLP)"
+			"name": "Data Leak Prevention (DLP)",
+			"seo": {
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
+			}
 		},
 		"5f9a25957b805a001eaa3ed8": {
 			"id": "5f9a25957b805a001eaa3ed8",
 			"pageUrl": "compliance-management-auditing-and-monitoring",
 			"name": "Compliance Management, Auditing & Monitoring",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Compliance Management, Auditing & Monitoring"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Compliance Management, Auditing & Monitoring",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f9f5b23fe68cf001ebadc19": {
@@ -509,14 +633,18 @@ export default {
 			"name": "PCI DSS Compliance & Certification",
 			"seo": {
 				"title": "PCI DSS Compliance & Certification",
-				"favicon_32px": ""
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5fa2141b7b805a001eaa456b": {
 			"name": "Support",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Support"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Support",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5fa2141b7b805a001eaa456b",
 			"pageUrl": "support"
@@ -527,14 +655,18 @@ export default {
 			"name": "Network activity monitoring",
 			"seo": {
 				"title": "App usage/application  monitoring ",
-				"favicon_32px": ""
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f99e1febdea00001fe539f5": {
 			"name": "Privileged User Monitoring",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Privileged User Monitoring"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Privileged User Monitoring",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			},
 			"id": "5f99e1febdea00001fe539f5",
 			"pageUrl": "privileged-user-monitoring"
@@ -544,8 +676,10 @@ export default {
 			"pageUrl": "keystroke-monitoring",
 			"name": "Keystroke Monitoring",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Keystroke Monitoring"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Keystroke Monitoring",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f9f5caafe68cf001ebadc25": {
@@ -553,8 +687,10 @@ export default {
 			"pageUrl": "iso-27001-compliance",
 			"name": "General Data Protection Regulation (GDPR)",
 			"seo": {
-				"favicon_32px": "",
-				"title": "ISO 27001 Compliance"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "ISO 27001 Compliance",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"5f9f5e2d7523b7001e45f6af": {
@@ -562,14 +698,21 @@ export default {
 			"pageUrl": "energy-and-utilities-sector-cyber-security",
 			"name": "Energy & Utilities Sector Cyber Security",
 			"seo": {
-				"favicon_32px": "",
-				"title": "Energy & Utilities Sector Cyber Security"
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"title": "Energy & Utilities Sector Cyber Security",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
 			}
 		},
 		"601a602e372cb7001f0e1079": {
 			"name": "Web-cam snapshots",
 			"id": "601a602e372cb7001f0e1079",
-			"pageUrl": "webcam-snapshots"
+			"pageUrl": "webcam-snapshots",
+			"seo": {
+				"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
+				"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
+				"favicon_win10_270px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-25T04:37:47.288Z"
+			}
 		}
 	},
 	"mode": "production",
@@ -581,7 +724,7 @@ export default {
 			"background_win10": "#1465FF",
 			"description": "StaffCop provides a unique, fully integrated solution that focuses on detection and response to insider threats through a combination of advanced behavioral analysis and context-rich logging of insider activity.\n\n",
 			"og:title": "StaffCop Enterprise",
-			"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/apple-touch-icon.png?v=2023-08-23T12:52:41.958Z",
+			"favicon_32px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/favicon-32x32.png?v=2023-08-25T09:35:09.985Z",
 			"favicon_apple_152px": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/android-chrome-512x512.png?v=2023-08-23T12:52:41.903Z",
 			"og:description": "StaffCop provides a unique, fully integrated solution that focuses on detection and response to insider threats through a combination of advanced behavioral analysis and context-rich logging of insider activity.\n\n",
 			"og:image": "https://uploads.quarkly.io/5f844e532e3a2a001faf55b8/images/gfjkjkljkl.nbmbv.png?v=2020-11-04T15:35:13.162Z",

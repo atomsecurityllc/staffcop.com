@@ -32,8 +32,6 @@
         "@quarkly/components": "0.2.75",
         "@quarkly/widgets": "0.2.75",
         "@quarkly/atomize": "1.0.20",
-        "react-ga": "latest",
-        "react-ticker": "latest",
         "react-youtube": "latest",
         "react-dom": "^17.0.2",
         "styled-components": "^5.0.1",
