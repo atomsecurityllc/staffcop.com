@@ -3364,7 +3364,6 @@ export default (() => {
 							630090 ul. Kutateladze, 4g,
 							<br />
 							Novosibirsk, Russia.
-							<br />
 						</Text>
 						<SocialMedia
 							lg-justify-content="center"

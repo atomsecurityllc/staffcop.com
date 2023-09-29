@@ -257,7 +257,11 @@ export default (() => {
 			<Components.Form />
 			<Components.Footer>
 				<Override slot="text">
-					Russia, Novosibirsk, Koptug Road 4, Sobolev Institute of Mathematics
+					630090 ul. Kutateladze, 4g,
+					<br />
+					Novosibirsk, Russia.
+					<br />
+					{"\n\n"}
 				</Override>
 			</Components.Footer>
 		</Section>
