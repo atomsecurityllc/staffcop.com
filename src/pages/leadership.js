@@ -83,7 +83,14 @@ export default (() => {
 			</Override>
 		</Components.BlockNeed>
 		<Components.Feature />
-		<Components.Footer />
+		<Components.Footer>
+			<Override slot="text">
+				050000, Nauryzbai Batyr str., 102, office 8,
+				<br />
+				Almaty,
+Republic of Kazakhstan{"\n\n\n\n"}
+			</Override>
+		</Components.Footer>
 		<Components.Copyright />
 		<RawHtml>
 			<style place={"endOfHead"} rawKey={"602ae6625a167a1bb9dbc787"}>
@@ -94,6 +101,9 @@ export default (() => {
 			</script>
 			<script async={false} type={"text/javascript"} place={"endOfBody"} rawKey={"6397fad8cf33eb1c42d97b3d"}>
 				{"   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(91528209, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });"}
+			</script>
+			<script place={"endOfHead"} rawKey={"653603dcbd92e939253b49cb"}>
+				{"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-52GMWJV');"}
 			</script>
 		</RawHtml>
 	</Theme>;

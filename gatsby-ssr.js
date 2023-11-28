@@ -2,7 +2,17 @@ const React = require("react");
 const QAPI = require("./qapi").default;
 const { RawHtml } = require("@quarkly/components");
  const insideHeadRawHtmls = [];
-const beforeBodyRawHtmls = [];
+const beforeBodyRawHtmls = [<noscript key="2">
+<iframe
+  height="0"
+  src="https://www.googletagmanager.com/ns.html?id=GTM-52GMWJV"
+  style={{
+    display: 'none',
+    visibility: 'hidden'
+  }}
+  width="0"
+/>
+</noscript>];
  export const onRenderBody = (
     {
         setHeadComponents,
