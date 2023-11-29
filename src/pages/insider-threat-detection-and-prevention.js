@@ -2060,7 +2060,9 @@ export default (() => {
 				Feature-rich, affordable with annual and perpetual licensing options
 			</Override>
 		</Components.Feature>
-		<Components.Footer />
+		<Components.Footer>
+			<Override slot="text" />
+		</Components.Footer>
 		<Components.Copyright />
 		<RawHtml>
 			<style place={"endOfHead"} rawKey={"602ae6625a167a1bb9dbc787"}>

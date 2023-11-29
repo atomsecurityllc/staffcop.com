@@ -838,9 +838,7 @@ export default (() => {
 			<Override slot="SectionContent" max-width="none" width="100%" />
 			<Components.Form />
 			<Components.Footer>
-				<Override slot="text">
-					Russia, Novosibirsk, Koptug Road 4, Sobolev Institute of Mathematics
-				</Override>
+				<Override slot="text" />
 			</Components.Footer>
 		</Section>
 		<Components.Copyright />

@@ -2212,7 +2212,9 @@ Besides, StaffCop enables you to conform to compliance regulations, including GD
 					, affordable with annual and perpetual licensing options
 				</Override>
 			</Components.Feature>
-			<Components.Footer />
+			<Components.Footer>
+				<Override slot="text" />
+			</Components.Footer>
 		</Section>
 		<Components.Copyright />
 		<RawHtml>

@@ -1378,9 +1378,8 @@ With its intelligent behavior analysis and user centric activity monitoring,{" "
 				</Override>
 			</Components.Feature>
 			<Components.Footer>
-				<Override slot="link">
-					Company
-				</Override>
+				<Override slot="link" />
+				<Override slot="text" />
 			</Components.Footer>
 		</Section>
 		<Components.Copyright />

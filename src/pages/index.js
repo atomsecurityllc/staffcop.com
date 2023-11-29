@@ -1969,10 +1969,9 @@ export default (() => {
 							md-text-align="center"
 							font="normal 300 18px/160% --fontFamily-googleInter"
 						>
-							630090 ul. Kutateladze, 4g,
+							050000, Nauryzbai Batyr str., 102, office 8,
 							<br />
-							Novosibirsk, Russia.
-							<br />
+							Almaty, Republic of Kazakhstan{"\n\n"}
 						</Text>
 						<SocialMedia
 							lg-justify-content="center"

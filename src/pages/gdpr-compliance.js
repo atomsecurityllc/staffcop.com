@@ -2136,7 +2136,9 @@ export default (() => {
 					, affordable with monthly and annual licensing options
 				</Override>
 			</Components.Feature>
-			<Components.Footer />
+			<Components.Footer>
+				<Override slot="text" />
+			</Components.Footer>
 		</Section>
 		<Components.Copyright />
 		<RawHtml>

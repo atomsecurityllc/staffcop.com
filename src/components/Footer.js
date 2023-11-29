@@ -49,9 +49,9 @@ const overrides = {
 			"md-text-align": "center",
 			"opacity": "0.5",
 			"children": <>
-				630090 ul. Kutateladze, 4g,
+				050000, Nauryzbai Batyr str., 102, office 8,
 				<br />
-				Novosibirsk, Russia.{"\n\n"}
+				Almaty, Republic of Kazakhstan{"\n\n"}
 			</>
 		}
 	},

@@ -2784,7 +2784,9 @@ idle time, productive vs. unproductive time, session vs. work time to track empl
 					Feature-rich, affordable with annual and perpetual licensing options
 				</Override>
 			</Components.Feature>
-			<Components.Footer />
+			<Components.Footer>
+				<Override slot="text" />
+			</Components.Footer>
 		</Section>
 		<Components.Copyright />
 		<RawHtml>

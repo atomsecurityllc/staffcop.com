@@ -2858,7 +2858,9 @@ StaffCop is designed to ensure that your third party is processing privacy data 
 					Feature-rich, affordable with annual and perpetual licensing options
 				</Override>
 			</Components.Feature>
-			<Components.Footer />
+			<Components.Footer>
+				<Override slot="text" />
+			</Components.Footer>
 		</Section>
 		<Components.Copyright />
 		<RawHtml>

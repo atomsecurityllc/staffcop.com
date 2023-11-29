@@ -2245,11 +2245,7 @@ export default (() => {
 			</Section>
 		</Section>
 		<Components.Footer>
-			<Override slot="text">
-				Russia, Novosibirsk,{" "}
-				<br />
-				st. Kutateladze 4G, 3rd floor.
-			</Override>
+			<Override slot="text" />
 		</Components.Footer>
 		<Components.Copyright />
 		<RawHtml>

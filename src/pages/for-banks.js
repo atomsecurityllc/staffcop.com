@@ -3361,9 +3361,9 @@ export default (() => {
 							color="rgba(255, 255, 255, 0.6)"
 							md-text-align="center"
 						>
-							630090 ul. Kutateladze, 4g,
+							050000, Nauryzbai Batyr str., 102, office 8,
 							<br />
-							Novosibirsk, Russia.
+							Almaty, Republic of Kazakhstan{"\n\n"}
 						</Text>
 						<SocialMedia
 							lg-justify-content="center"

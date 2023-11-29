@@ -32,9 +32,7 @@ export default (() => {
 			</Override>
 		</Components.Form>
 		<Components.Footer>
-			<Override slot="link2">
-				Leadership Team
-			</Override>
+			<Override slot="link2" />
 		</Components.Footer>
 		<Components.Copyright />
 		<RawHtml>

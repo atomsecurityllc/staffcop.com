@@ -431,11 +431,7 @@ export default (() => {
 			<Override slot="SectionContent" width="100%" max-width="none" />
 			<Components.Form />
 			<Components.Footer>
-				<Override slot="text">
-					630090 ul. Kutateladze, 4g,
-					<br />
-					Novosibirsk, Russia.{"\n\n"}
-				</Override>
+				<Override slot="text" />
 			</Components.Footer>
 		</Section>
 		<Components.Copyright />

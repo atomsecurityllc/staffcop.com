@@ -84,12 +84,7 @@ export default (() => {
 		</Components.BlockNeed>
 		<Components.Feature />
 		<Components.Footer>
-			<Override slot="text">
-				050000, Nauryzbai Batyr str., 102, office 8,
-				<br />
-				Almaty,
-Republic of Kazakhstan{"\n\n\n\n"}
-			</Override>
+			<Override slot="text" />
 		</Components.Footer>
 		<Components.Copyright />
 		<RawHtml>
